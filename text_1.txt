@@ -1,0 +1,3 @@
+python open file for read and write
+проверка русских слов введеных для подсчета количества слов
+другая строка русская and english
